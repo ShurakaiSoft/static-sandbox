@@ -9,7 +9,7 @@ A static (client side only) website seed project that's powered by Nginx.
 The seed repository can be found on github. In a new development directory,
 clone the repo:
 
-	$ git clone http...
+	$ git clone https://github.com/ShurakaiSoft/static-sandbox.git
 
 All the public content and assets are located in the `/public` directory. This
 needs to be linked to the location where the website will be served. On Ubuntu
